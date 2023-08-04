@@ -1,8 +1,36 @@
-# React + Vite
+# Dogs - Uma rede social para seu animalzinho
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+###  🔽 Veja funcionando:
+<img src="https://i.imgur.com/HNjZLoJ.jpg" alt="Home do site, com feed de fotos" width="80%"/>
 
-Currently, two official plugins are available:
+### 💻 Previews:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#### - Preview 1:
+<img src="./gifs/preview1.gif?raw=true" width="100%">
+
+#### - Preview 2:
+<img src="./gifs/preview-2.gif?raw=true" width="100%">
+
+## 👷  Executando o projeto
+
+ #### Baixando repositório para sua máquina
+    # Clone o repositório com:
+    git clone git@github.com:brunoanunciacaosouza/dogs.git
+    
+    # Navegue para a pasta raíz com:
+    cd dogs
+
+    
+   #### Instalando dependências
+   
+
+    # Baixe as dependências com:
+    npm install
+
+#### Scripts
+Para executar o projeto:
+
+    # Na pasta raíz do projeto, execute:
+    npm run dev
+
+    

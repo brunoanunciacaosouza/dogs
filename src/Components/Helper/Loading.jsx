@@ -22,7 +22,6 @@ const Loading = () => {
       display: step === i ? 'block' : 'none',
     };
   }
-  
 
   return (
     <div className={styles.wrapper}>
